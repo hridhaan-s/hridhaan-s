@@ -15,8 +15,12 @@ If you’re curious about what I’m building right now,
 You can more context on my website.
 
 <a href="https://hridhaan.bitbuzz.club/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20My%20Website-CLICK?style=for-the-badge&color=FFD700&logo=google-chrome&logoColor=000" />
+  <img src="https://img.shields.io/badge/hridhaan.bitbuzz.club-black?style=for-the-badge&logoColor=yellow" /> 
+  
 </a>
+
+
+
 
 
 Thanks for stopping by :)
