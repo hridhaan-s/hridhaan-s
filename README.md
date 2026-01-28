@@ -1,10 +1,11 @@
-## hey, I’m Hridhaan 
+## Hello there!, I’m Hridhaan 
 
-I’m a student who enjoys building things and figuring stuff out along the way.  
+I’m a high school student who enjoys building things and figuring stuff out along the way.  
 Most of my work sits at the intersection of **tech, engineering, and curiosity**.
 
 
 ### what I’m usually working on
+- Learning Competitive Programming
 - Researching and Learning 
 - experiments related to space, astronomy, and engineering  
 - learning new technologies by actually using them
