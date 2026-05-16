@@ -12,7 +12,12 @@ Most of my work sits at the intersection of **tech, engineering, and curiosity**
 - Making cool projects
 - trying out new tools and languages  
 
-My Coding Stats: 
+My Coding Stats:
+<h2 align="center">⏱ Hackatime Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23723&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
+</p>
 https://github-readme-stats.hackclub.dev/api/wakatime?username=23723&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
 
 
