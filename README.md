@@ -4,13 +4,20 @@ I’m a high school student who enjoys building things and figuring stuff out al
 Most of my work sits at the intersection of **tech, engineering, and curiosity**.
 
 
-### what I’m usually working on
+### What I’m usually working on
 - Learning Competitive Programming
 - Researching and Learning 
 - experiments related to space, astronomy, and engineering  
 - learning new technologies by actually using them
 - Making cool projects
 - trying out new tools and languages  
+
+My Coding Stats: 
+https://github-readme-stats.hackclub.dev/api/wakatime?username=23723&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+
+
+Source: Hackatime - API(Wakatime) 
+
 
 If you’re curious about what I’m building right now,  
 You can more context on my website.
