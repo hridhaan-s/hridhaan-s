@@ -12,20 +12,18 @@ Most of my work sits at the intersection of **tech, engineering, and curiosity**
 - Making cool projects
 - trying out new tools and languages  
 
-My Coding Stats:
-<h2 align="center">⏱ Hackatime Stats</h2>
+
+<h2 align="center">My Coding Stats:</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=23723&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </p>
-https://github-readme-stats.hackclub.dev/api/wakatime?username=23723&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-
 
 Source: Hackatime - API(Wakatime) 
 
 
 If you’re curious about what I’m building right now,  
-You can more context on my website.
+You can get more context on my website.
 
 <a href="https://hridhaan.bitbuzz.club/" target="_blank">
   <img src="https://img.shields.io/badge/hridhaan.bitbuzz.club-black?style=for-the-badge&logoColor=yellow" /> 
