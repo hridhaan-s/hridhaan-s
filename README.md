@@ -30,6 +30,31 @@ You can get more context on my website.
   
 </a>
 
+<a 
+  href="https://github.com/hridhaan-s" 
+  target="_blank" 
+  rel="noopener"
+  class="github-88x31"
+>
+  <img 
+    src="https://cyber.dabamos.de/88x31/github.gif"
+    alt="GitHub"
+  />
+</a>
+
+.github-88x31{
+  display:inline-block;
+  transition:.25s ease;
+  image-rendering:auto;
+}
+
+.github-88x31:hover{
+  transform:translateY(-2px) scale(1.05);
+  filter:
+    drop-shadow(0 0 8px rgba(255,255,255,.18))
+    brightness(1.08);
+}
+
 
 
 
