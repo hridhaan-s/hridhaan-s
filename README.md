@@ -23,7 +23,12 @@ Source: Hackatime - API(Wakatime)
 
 
 If you’re curious about what I’m building right now,  
-You can get more context on my website.
+You can get more context about me on my website.
 : www.hridhaan.me
+
+You can mail me at
+hi@Hridhaan.me
+
+
 
 Thanks for stopping by :)
