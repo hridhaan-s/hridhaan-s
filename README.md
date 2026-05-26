@@ -26,7 +26,7 @@ If you’re curious about what I’m building right now,
 You can get more context on my website.
 
 <a href="https://hridhaan.bitbuzz.club/" target="_blank">
-  <img src="https://img.shields.io/badge/Hridhaan.me?style=for-the-badge&logoColor=yellow" /> 
+  <img src="https://img.shields.io/badge/https://hridhaan.bitbuzz.club/?style=for-the-badge&logoColor=yellow" /> 
   
 </a>
 
