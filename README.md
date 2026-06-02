@@ -1,7 +1,7 @@
 ## Hello there!, I’m Hridhaan 
 
 I’m a high school student who enjoys building things and figuring stuff out along the way.  
-Most of my work sits at the intersection of **tech, engineering, and curiosity**.
+Most of my work is around **tech, research, engineering, and curiosity**.
 
 
 ### What I’m usually working on
