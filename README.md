@@ -22,6 +22,37 @@ Most of my work is around **tech, research, engineering, and curiosity**.
 Source: Hackatime - API(Wakatime) 
 
 
+
+## Open Source
+
+I contribute to open-source projects that support student builders around the world.
+
+```text
+2026
+
+├─ Hack Club YSWS Platform
+│  ↳ 100K+ monthly visitors impacted
+│  ↳ Improved navbar & navigation
+│  ↳ Enhanced hero section & project cards
+│  ↳ Added responsive design improvements
+│  ↳ Shipped new features
+│  ↳ 3 PRs merged into production
+│
+├─ Hack Club Help Center
+│  ↳ Frontend improvements
+│  ↳ UI/UX enhancements
+│  ↳ Merged pull request
+│  ↳ Improved user experience
+│
+└─ Focus
+   ↳ Frontend Engineering
+   ↳ UI/UX Design
+   ↳ Product Development
+```
+
+
+
+
 If you’re curious about what I’m building right now,  
 You can get more context about me on my website.
 : www.hridhaan.me
