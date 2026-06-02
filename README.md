@@ -38,13 +38,12 @@ I contribute to open-source projects that support student builders around the wo
 │  ↳ Shipped new features
 │  ↳ 3 PRs merged into production
 │
-├─ Hack Club Help Center {help.hackclub.com}
-│  ↳ Frontend improvements
-│  ↳ UI/UX enhancements
-│  ↳ Merged pull request
-│  ↳ Improved user experience
-│
-└─ 
+|─ Hack Club Help Center {help.hackclub.com}
+  ↳ Frontend improvements
+  ↳ UI/UX enhancements
+  ↳ Merged pull request
+  ↳ Improved user experience
+ 
 ```
 
 
