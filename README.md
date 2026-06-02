@@ -30,7 +30,7 @@ I contribute to open-source projects that support student builders around the wo
 ```text
 2026
 
-├─ Hack Club YSWS Platform
+├─ Hack Club YSWS Platform {ysws.hackclub.com}
 │  ↳ 100K+ monthly visitors impacted
 │  ↳ Improved navbar & navigation
 │  ↳ Enhanced hero section & project cards
@@ -38,16 +38,13 @@ I contribute to open-source projects that support student builders around the wo
 │  ↳ Shipped new features
 │  ↳ 3 PRs merged into production
 │
-├─ Hack Club Help Center
+├─ Hack Club Help Center {help.hackclub.com}
 │  ↳ Frontend improvements
 │  ↳ UI/UX enhancements
 │  ↳ Merged pull request
 │  ↳ Improved user experience
 │
-└─ Focus
-   ↳ Frontend Engineering
-   ↳ UI/UX Design
-   ↳ Product Development
+└─ 
 ```
 
 
