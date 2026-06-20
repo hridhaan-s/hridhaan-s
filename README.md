@@ -43,7 +43,12 @@ I contribute to open-source projects that support student builders around the wo
   ↳ UI/UX enhancements
   ↳ Merged pull request
   ↳ Improved user experience
- 
+|
+|-- Hack Club Keeb YSWS {keeb.hackclub.com}
+  ↳ Made the shop for the users to redeem rewards
+  ↳ UI/UX enhancements
+  ↳ Merged pull request
+
 ```
 
 
